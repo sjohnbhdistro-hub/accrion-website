@@ -1,0 +1,17 @@
+Photographs on this site
+
+Both photographs come from Unsplash and are free to use, including commercially,
+under the Unsplash Licence (https://unsplash.com/license). No attribution is required,
+but the sources are recorded here for your records. Checked on 15 November 2026.
+For this design they are shown in colour, cropped and given a light, cool grade to suit
+the site's blue and teal (scripts/colour_photos.py).
+
+plate-figures.jpg   Photo by Scott Graham
+                    https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA
+
+desk-notebook.jpg   Photo by Jakub Żerdzicki
+                    https://unsplash.com/photos/a-person-sitting-at-a-desk-with-a-calculator-and-a-notebook-LNnmSumlwO4
+
+The files ending in -400.jpg and -640.jpg are smaller copies of the same photographs, used on small screens.
+
+The desk photograph is cropped from the left so that the wearer's watch strap is out of frame.
